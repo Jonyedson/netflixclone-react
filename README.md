@@ -4,6 +4,12 @@ Direito de imagens para a [Netflix](https://www.netflix.com/br/)
   <img  src="public/netflixclone.gif"
 </p>
   
+  #### Responsive
+  
+<p align="center">
+  <img  src="public/netflixclone-reponsive.gif"
+</p>
+  
 ## TOOLS
 
 `React` `JavaScript` `HTML` `CSS` `Vscode` `Heroku`
