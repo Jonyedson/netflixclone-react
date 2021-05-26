@@ -12,7 +12,7 @@ Direito de imagens para a [Netflix](https://www.netflix.com/br/)
   
 ## TOOLS
 
-`React` `JavaScript` `HTML` `CSS` `Vscode` `Heroku`
+`React` `JavaScript` `HTML` `CSS` `Heroku cloud`
 
  ## Sobre o projeto
   
@@ -30,5 +30,36 @@ Direito de imagens para a [Netflix](https://www.netflix.com/br/)
   
   1. Os botões de assistir e adicionar na lista não estão implementados ao clicar a paginas será atualizada.
   2. Não está implementado os avatares/perfis.
+  
+  
+  # Getting Started
+  
+  Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
+  
+  ### Instalação 
+  
+  ` 
+  $ git clone https://github.com/Jonyedson/netflixclone-react.git 
+  `
+  
+  `
+  $ git cd netflixclone-react
+  `
+  
+  ### instalar dependência
+  
+  `
+  npm install
+  `
+ 
+  ### Executar
+  
+  Após installar as dependências execute:
+  
+  `
+  npm start
+  `
+  
+  Abra no seu navegador http://localhost:3000 para ver o projeto em execução.
   
   
